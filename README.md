@@ -3,7 +3,7 @@
 Invite the public implementation [here](https://discordapp.com/oauth2/authorize?client_id=674238793431384067&scope=bot&permissions=271608912), and use it with the `,p` prefix. To see a list of commands, type `,phelp`. Join the [support guild](https://discord.gg/MnMrQDe) if you have any questions or issues.
 
 
-The Idea
+CONCEPT:
 --------
 The **Pomodoro Technique** is a time management method that has been used to boost productivity for students and workers since 1980.
 A *Pomodoro* was typically `25` minutes of work with `5` minutes break, tracked using a *Pomodoro timer* (a tomato kitchen timer). After completing four Pomodoros, you would take a longer break (10-15 minutes), and begin the process again.
